@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-3",
-    "path": "/",
+    "path": "/index-2",
     "type": "page",
     "title": "Index",
     "seoTitle": "Index",
@@ -12,13 +12,13 @@
     "status": "published",
     "createdAt": "2026-10-09T04:43:04.323Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T04:59:23.604Z",
+    "updatedAt": "2026-10-09T05:22:42.342Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Blocked Drain Plumber Sydney | 24 Hour Licensed Drain Clearing",
     "seoTitle": "Blocked Drain Plumber Sydney | 24 Hour Licensed Drain Clearing",
@@ -26,10 +26,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T05:21:27.548Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T05:21:27.548Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T05:22:42.342Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
