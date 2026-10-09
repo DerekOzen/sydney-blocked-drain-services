@@ -15,5 +15,21 @@
     "createdAt": "2026-10-09T03:29:50.942Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Sydney Blocked Drain Service | Licensed Drain Specialists",
+    "seoTitle": "About Sydney Blocked Drain Service | Licensed Drain Specialists",
+    "seoDescription": "A licensed Sydney drainage specialist, NSW licence 306733C and fully insured. How the work is done, what decides the price, and what we do not claim.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-09T03:34:41.773Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-09T03:34:41.773Z",
+    "updatedBy": "joshua"
   }
 ]
