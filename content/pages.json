@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Blocked Drain Plumber Sydney | 24 Hour Licensed Drain Clearing",
+    "seoDescription": "Licensed blocked drain plumbers across Sydney. CCTV diagnosis, drain clearing and pipe relining. Blocked drains cleared from $69, $0 call-out fee, 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-09T03:29:50.942Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-10-09T03:29:50.942Z",
+    "createdBy": "derek"
+  }
+]
