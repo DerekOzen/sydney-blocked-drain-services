@@ -31,5 +31,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-09T03:35:41.733Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-3",
+    "path": "/index",
+    "type": "page",
+    "title": "Index",
+    "seoTitle": "Index",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-09T04:43:04.323Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-09T04:43:04.323Z",
+    "updatedBy": "joshua"
   }
 ]
