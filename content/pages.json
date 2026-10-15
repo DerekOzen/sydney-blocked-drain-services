@@ -35,7 +35,7 @@
   },
   {
     "id": "pg-4",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Blocked Drain Plumber Sydney | 24 Hour Licensed Drain Clearing",
     "seoTitle": "Blocked Drain Plumber Sydney | 24 Hour Licensed Drain Clearing",
@@ -43,10 +43,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-15T23:39:44.098Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T23:39:44.098Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-15T23:40:18.668Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
