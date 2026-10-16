@@ -1,6 +1,6 @@
 {
   "whiteLabel": false,
   "logo": "",
-  "mode": "text",
+  "mode": "logo",
   "favicon": "app/icon.png"
 }
