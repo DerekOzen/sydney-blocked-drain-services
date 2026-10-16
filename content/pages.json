@@ -60,10 +60,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-16T01:58:59.157Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T01:58:59.157Z",
+    "updatedAt": "2026-10-16T01:59:20.760Z",
     "updatedBy": "joshua"
   }
 ]
