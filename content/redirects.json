@@ -1744,5 +1744,12 @@
     "to": "/area-we-serve/nsw",
     "code": 301,
     "at": "2026-10-16T06:45:45.946Z"
+  },
+  {
+    "from": "/sitemap_index.xml",
+    "to": "/sitemap.xml",
+    "code": 301,
+    "at": "2026-11-18T22:22:38.335Z",
+    "fromRaw": "/sitemap_index.xml"
   }
 ]
