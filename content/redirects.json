@@ -1758,5 +1758,12 @@
     "code": 301,
     "at": "2026-11-18T22:52:01.864Z",
     "fromRaw": "/category/electric-eel-drain-cleaning"
+  },
+  {
+    "from": "/category/high-pressure-water-jetter",
+    "to": "/services/high-pressure-water-jetter",
+    "code": 301,
+    "at": "2026-11-18T22:52:46.795Z",
+    "fromRaw": "/category/high-pressure-water-jetter"
   }
 ]
