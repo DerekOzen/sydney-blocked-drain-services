@@ -1765,5 +1765,12 @@
     "code": 301,
     "at": "2026-11-18T22:52:46.795Z",
     "fromRaw": "/category/high-pressure-water-jetter"
+  },
+  {
+    "from": "/category/pipe-relining",
+    "to": "/services/pipe-relining",
+    "code": 301,
+    "at": "2026-11-18T22:53:40.880Z",
+    "fromRaw": "/category/pipe-relining"
   }
 ]
