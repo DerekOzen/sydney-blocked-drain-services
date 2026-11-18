@@ -1751,5 +1751,12 @@
     "code": 301,
     "at": "2026-11-18T22:22:38.335Z",
     "fromRaw": "/sitemap_index.xml"
+  },
+  {
+    "from": "/category/electric-eel-drain-cleaning",
+    "to": "/services/electric-eel-drain-cleaning",
+    "code": 301,
+    "at": "2026-11-18T22:52:01.864Z",
+    "fromRaw": "/category/electric-eel-drain-cleaning"
   }
 ]
