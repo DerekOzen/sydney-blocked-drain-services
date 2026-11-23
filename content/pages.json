@@ -5579,5 +5579,22 @@
     "updatedAt": "2026-11-23T23:10:43.979Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-353",
+    "path": "/services/pipe-relining-copy",
+    "type": "service",
+    "title": "Pipe Relining Sydney | No Dig Trenchless Drain Repair (Copy)",
+    "seoTitle": "Pipe Relining Sydney | No Dig Trenchless Drain Repair",
+    "seoDescription": "Trenchless pipe relining across Sydney. A new jointless pipe is formed inside the damaged one through existing access, so driveway and garden stay intact.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:11:35.971Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:11:35.971Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
