@@ -5630,5 +5630,22 @@
     "updatedAt": "2026-11-23T23:14:03.142Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-356",
+    "path": "/services/tree-root-damage-copy",
+    "type": "service",
+    "title": "Tree Root Removal From Drains Sydney | Root Damage Repair (Copy)",
+    "seoTitle": "Tree Root Removal From Drains Sydney | Root Damage Repair",
+    "seoDescription": "Tree roots cut out of blocked drains across Sydney, then the joint or crack they entered through is found on camera and sealed as part of the same job.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:14:50.434Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:14:50.434Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
