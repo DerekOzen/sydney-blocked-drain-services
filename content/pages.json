@@ -5528,5 +5528,22 @@
     "updatedAt": "2026-11-23T23:05:37.465Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-350",
+    "path": "/services/electric-eel-drain-cleaning-copy",
+    "type": "service",
+    "title": "Electric Eel Drain Cleaning Sydney | Root and Blockage Cutting (Copy)",
+    "seoTitle": "Electric Eel Drain Cleaning Sydney | Root and Blockage Cutting",
+    "seoDescription": "Electric eel drain cleaning across Sydney. A powered cutting head shears roots and compacted blockages out of the line, with a camera check straight afterwards.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:06:19.856Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:06:19.856Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
