@@ -5562,5 +5562,22 @@
     "updatedAt": "2026-11-23T23:07:47.021Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-352",
+    "path": "/services/high-pressure-water-jetter-copy",
+    "type": "post",
+    "title": "High Pressure Drain Jetting Sydney | Hydro Jet Drain Cleaning (Copy)",
+    "seoTitle": "High Pressure Drain Jetting Sydney | Hydro Jet Drain Cleaning",
+    "seoDescription": "High pressure drain jetting across Sydney. Water at pressure strips grease and silt off the pipe wall along the full run, restoring the bore not just a channel.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:10:22.496Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:10:22.496Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
