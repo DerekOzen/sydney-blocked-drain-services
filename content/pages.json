@@ -5477,5 +5477,22 @@
     "updatedAt": "2026-11-23T23:02:09.446Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-347",
+    "path": "/services/cctv-drain-inspection-copy",
+    "type": "service",
+    "title": "CCTV Drain Inspection Sydney | Drain Camera Survey (Copy)",
+    "seoTitle": "CCTV Drain Inspection Sydney | Drain Camera Survey",
+    "seoDescription": "CCTV drain inspections across Sydney. Find the exact position, depth and cause of a fault, and see the pipe condition on screen before anyone quotes a repair.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:02:58.766Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:02:58.766Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
