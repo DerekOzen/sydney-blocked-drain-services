@@ -5494,5 +5494,22 @@
     "updatedAt": "2026-11-23T23:03:20.111Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-348",
+    "path": "/services/commercial-drain-cleaning-service-copy",
+    "type": "service",
+    "title": "Commercial and Strata Drain Cleaning Sydney (Copy)",
+    "seoTitle": "Commercial and Strata Drain Cleaning Sydney",
+    "seoDescription": "Commercial and strata drain cleaning across Sydney. Kitchens, unit blocks and offices, scheduled around trading hours with camera records for committees.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:04:06.826Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:04:06.826Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
