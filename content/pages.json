@@ -5596,5 +5596,22 @@
     "updatedAt": "2026-11-23T23:11:55.833Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-354",
+    "path": "/services/pipe-replacement-copy",
+    "type": "service",
+    "title": "Drain Pipe Replacement Sydney | Sewer Pipe Replacement (Copy)",
+    "seoTitle": "Drain Pipe Replacement Sydney | Sewer Pipe Replacement",
+    "seoDescription": "Drain and sewer pipe replacement across Sydney for collapsed or fallen lines. Relining is assessed first, and replacement only once footage rules it out.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:12:41.004Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:12:41.004Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
