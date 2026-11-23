@@ -5511,5 +5511,22 @@
     "updatedAt": "2026-11-23T23:04:26.912Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-349",
+    "path": "/services/drain-cleaning-sydney-copy",
+    "type": "service",
+    "title": "Drain Cleaning Sydney | Scheduled Drain Cleaning Service (Copy)",
+    "seoTitle": "Drain Cleaning Sydney | Scheduled Drain Cleaning Service",
+    "seoDescription": "Scheduled drain cleaning across Sydney for kitchens, strata lines and homes that block repeatedly. CCTV first, so you only pay for a schedule you actually need.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:05:17.729Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:05:17.729Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
