@@ -5681,5 +5681,22 @@
     "updatedAt": "2026-11-23T23:18:57.585Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-359",
+    "path": "/area-we-serve/nsw/blocked-drains-sydney-cbd-copy",
+    "type": "location",
+    "title": "Blocked Drains Sydney CBD | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Sydney CBD | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Sydney CBD and its 26 suburbs, all in the City of Sydney. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T23:19:48.018Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T23:19:48.018Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
