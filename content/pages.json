@@ -5375,5 +5375,22 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-16T05:47:21.704Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-341",
+    "path": "/services/blocked-drains-sydney-copy",
+    "type": "service",
+    "title": "Blocked Drains Sydney | Causes, Clearing and Costs (Copy)",
+    "seoTitle": "Blocked Drains Sydney | Causes, Clearing and Costs",
+    "seoDescription": "Blocked drains cleared across Sydney from $69, with CCTV diagnosis so the cause is found, not just the blockage. Licensed, insured, $0 call-out, 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-23T22:55:29.519Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T22:55:29.519Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
