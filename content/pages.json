@@ -5766,5 +5766,22 @@
     "updatedAt": "2026-11-24T00:06:17.392Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-364",
+    "path": "/area-we-serve/nsw/blocked-drains-randwick-copy",
+    "type": "location",
+    "title": "Blocked Drains Randwick | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Randwick | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Randwick and its 11 suburbs, all in the Randwick City Council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:07:00.842Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:07:00.842Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
