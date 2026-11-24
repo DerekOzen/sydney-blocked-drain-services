@@ -5885,5 +5885,22 @@
     "updatedAt": "2026-11-24T00:15:26.000Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-371",
+    "path": "/area-we-serve/nsw/blocked-drains-ryde-copy",
+    "type": "location",
+    "title": "Blocked Drains Ryde | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Ryde | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Ryde and its 7 suburbs, all in the City of Ryde. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:16:08.767Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:16:08.767Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
