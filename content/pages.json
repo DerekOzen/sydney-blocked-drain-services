@@ -5800,5 +5800,22 @@
     "updatedAt": "2026-11-24T00:08:24.280Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-366",
+    "path": "/area-we-serve/nsw/blocked-drains-woollahra-copy",
+    "type": "location",
+    "title": "Blocked Drains Woollahra and Double Bay | Drain Clearing (Copy)",
+    "seoTitle": "Blocked Drains Woollahra and Double Bay | Drain Clearing",
+    "seoDescription": "Blocked drains cleared across Woollahra and Double Bay and its 8 suburbs. CCTV diagnosis, $0 call-out fee, on call 24 hours. NSW licence 306733C.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:09:13.160Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:09:13.160Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
