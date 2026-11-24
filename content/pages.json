@@ -6582,5 +6582,22 @@
     "updatedAt": "2026-11-24T02:06:50.452Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-412",
+    "path": "/blogs-copy",
+    "type": "post",
+    "title": "Drain Advice | Blocked Drains, Diagnosis and Pipe Repair (Copy)",
+    "seoTitle": "Drain Advice | Blocked Drains, Diagnosis and Pipe Repair",
+    "seoDescription": "Articles on why drains block, how the cause is found, what each clearing method is for, and when a pipe needs repairing rather than clearing again.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T02:07:40.273Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T02:07:40.273Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
