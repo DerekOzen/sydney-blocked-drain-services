@@ -6412,5 +6412,22 @@
     "updatedAt": "2026-11-24T01:14:08.916Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-402",
+    "path": "/older-sydney-homes-plumbing-layouts-repeat-issues-copy",
+    "type": "post",
+    "title": "Older Sydney Homes: Plumbing Layouts Behind Repeat Issues (Copy)",
+    "seoTitle": "Older Sydney Homes: Plumbing Layouts Behind Repeat Issues",
+    "seoDescription": "Older Sydney homes carry legacy pipe materials, extra joints and tricky falls. The layout patterns behind repeat drainage trouble, and the early signs.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T01:14:49.707Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T01:14:49.707Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
