@@ -6446,5 +6446,22 @@
     "updatedAt": "2026-11-24T01:16:09.210Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-404",
+    "path": "/can-you-prevent-blocked-shower-drains-with-a-drain-guard-copy",
+    "type": "post",
+    "title": "Preventing Shower Blockages with a Drain Guard (Copy)",
+    "seoTitle": "Preventing Shower Blockages with a Drain Guard",
+    "seoDescription": "Learn how to prevent blocked shower drains with a drain guard. Keep your drains clear and clog-free with this simple solution!",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T01:22:54.743Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T01:22:54.743Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
