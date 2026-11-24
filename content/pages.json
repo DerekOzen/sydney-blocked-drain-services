@@ -5970,5 +5970,22 @@
     "updatedAt": "2026-11-24T00:20:54.750Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-376",
+    "path": "/area-we-serve/nsw/blocked-drains-the-hills-shire-copy",
+    "type": "location",
+    "title": "Blocked Drains The Hills Shire | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains The Hills Shire | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across The Hills Shire and its 6 suburbs, all in The Hills Shire. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:21:37.702Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:21:37.702Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
