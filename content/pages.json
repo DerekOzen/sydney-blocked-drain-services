@@ -6429,5 +6429,22 @@
     "updatedAt": "2026-11-24T01:15:10.845Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-403",
+    "path": "/how-does-drain-size-affect-clogging-risk-copy",
+    "type": "post",
+    "title": "How Drain Size Affects Clogging Risk | What to Know (Copy)",
+    "seoTitle": "How Drain Size Affects Clogging Risk | What to Know",
+    "seoDescription": "Discover the impact of drain size on clogging risk. Learn why it matters and how to mitigate issues effectively.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T01:15:49.554Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T01:15:49.554Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
