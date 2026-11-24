@@ -5953,5 +5953,22 @@
     "updatedAt": "2026-11-24T00:19:49.219Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-375",
+    "path": "/area-we-serve/nsw/blocked-drains-fairfield-copy",
+    "type": "location",
+    "title": "Blocked Drains Fairfield | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Fairfield | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Fairfield and its 16 suburbs, all in the Fairfield City Council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:20:32.783Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:20:32.783Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
