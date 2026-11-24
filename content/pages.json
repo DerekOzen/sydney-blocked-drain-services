@@ -5834,5 +5834,22 @@
     "updatedAt": "2026-11-24T00:10:39.738Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-368",
+    "path": "/area-we-serve/nsw/blocked-drains-hurstville-copy",
+    "type": "location",
+    "title": "Blocked Drains Hurstville | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Hurstville | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Hurstville and its 16 suburbs, which span more than one council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:12:51.406Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:12:51.406Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
