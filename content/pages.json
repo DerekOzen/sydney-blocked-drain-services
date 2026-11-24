@@ -6327,5 +6327,22 @@
     "updatedAt": "2026-11-24T01:08:09.357Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-397",
+    "path": "/can-a-stormwater-cctv-inspection-find-hidden-pipe-issues-copy",
+    "type": "post",
+    "title": "Stormwater CCTV Inspection: Detect Hidden Pipe Issues (Copy)",
+    "seoTitle": "Stormwater CCTV Inspection: Detect Hidden Pipe Issues",
+    "seoDescription": "Discover how a stormwater CCTV inspection can uncover hidden pipe defects early and prevent costly drainage failures",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T01:08:45.562Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T01:08:45.562Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
