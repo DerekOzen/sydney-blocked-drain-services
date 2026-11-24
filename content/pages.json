@@ -6055,5 +6055,22 @@
     "updatedAt": "2026-11-24T00:26:22.091Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-381",
+    "path": "/area-we-serve-copy",
+    "type": "location",
+    "title": "Areas We Serve | Blocked Drain Coverage Across Sydney (Copy)",
+    "seoTitle": "Areas We Serve | Blocked Drain Coverage Across Sydney",
+    "seoDescription": "Blocked drain coverage across 19 Sydney coverage areas and 249 suburbs. Find your council and suburb, with the same services available everywhere.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:27:23.037Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:27:23.037Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
