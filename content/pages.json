@@ -5420,10 +5420,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-23T22:58:25.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T03:17:12.955Z",
+    "updatedAt": "2026-11-24T03:17:40.863Z",
     "updatedBy": "derek",
     "isHome": false
   },
