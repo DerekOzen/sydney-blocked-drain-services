@@ -5987,5 +5987,22 @@
     "updatedAt": "2026-11-24T00:21:57.468Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-377",
+    "path": "/area-we-serve/nsw/blocked-drains-castle-hill-copy",
+    "type": "location",
+    "title": "Blocked Drains Castle Hill 2154 | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Castle Hill 2154 | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared in Castle Hill 2154, in The Hills Shire. CCTV diagnosis, $0 call-out fee, on call 24 hours. NSW licence 306733C.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:22:46.665Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:22:46.665Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
