@@ -5936,5 +5936,22 @@
     "updatedAt": "2026-11-24T00:18:42.174Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-374",
+    "path": "/area-we-serve/nsw/blocked-drains-blacktown-copy",
+    "type": "location",
+    "title": "Blocked Drains Blacktown | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Blacktown | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Blacktown and its 26 suburbs, all in the Blacktown City Council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:19:28.255Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:19:28.255Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
