@@ -5851,5 +5851,22 @@
     "updatedAt": "2026-11-24T00:13:11.579Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-369",
+    "path": "/area-we-serve/nsw/blocked-drains-north-shore-copy",
+    "type": "location",
+    "title": "Blocked Drains North Shore | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains North Shore | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across North Shore and its 11 suburbs, which span more than one council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:14:01.978Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:14:01.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
