@@ -5732,5 +5732,22 @@
     "updatedAt": "2026-11-24T00:04:01.805Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-362",
+    "path": "/area-we-serve/nsw/blocked-drains-strathfield-copy",
+    "type": "location",
+    "title": "Blocked Drains Strathfield | Drain Clearing and Repair (Copy)",
+    "seoTitle": "Blocked Drains Strathfield | Drain Clearing and Repair",
+    "seoDescription": "Blocked drains cleared across Strathfield and its 2 suburbs, which span more than one council area. CCTV diagnosis, $0 call-out fee, on call 24 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-24T00:04:44.902Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T00:04:44.902Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
