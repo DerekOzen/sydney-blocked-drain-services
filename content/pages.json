@@ -60,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T04:42:08.452Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T04:43:01.843Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -4452,11 +4453,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-282",
@@ -4484,11 +4486,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-284",
@@ -4516,11 +4519,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-286",
@@ -4532,11 +4536,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-287",
@@ -4615,11 +4620,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-292",
@@ -4665,11 +4671,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-295",
@@ -4698,11 +4705,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-297",
@@ -4714,11 +4722,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-298",
@@ -4730,11 +4739,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-299",
@@ -4762,11 +4772,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-301",
@@ -4778,11 +4789,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-302",
@@ -4794,11 +4806,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-303",
@@ -4810,11 +4823,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-304",
@@ -4842,11 +4856,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-306",
@@ -4874,11 +4889,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-308",
@@ -4922,11 +4938,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-311",
@@ -4938,11 +4955,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-312",
@@ -5018,11 +5036,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-317",
@@ -5051,11 +5070,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-319",
@@ -5150,11 +5170,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-325",
@@ -5247,11 +5268,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-331",
@@ -5263,11 +5285,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-332",
@@ -5279,11 +5302,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-333",
@@ -5311,11 +5335,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-335",
@@ -5327,11 +5352,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-336",
@@ -5375,11 +5401,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-339",
@@ -5391,11 +5418,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-340",
@@ -5407,11 +5435,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T04:50:57.228Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-341",
