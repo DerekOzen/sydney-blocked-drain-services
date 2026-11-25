@@ -5596,7 +5596,7 @@
   },
   {
     "id": "pg-353",
-    "path": "/services/pipe-relining-copy",
+    "path": "/services/pipe-relining",
     "type": "service",
     "title": "Pipe Relining Sydney",
     "seoTitle": "Pipe Relining Sydney | No Dig Sewer and Drain Repair",
@@ -5604,11 +5604,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:11:35.971Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:11:55.833Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:29:56.977Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
