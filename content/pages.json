@@ -5872,7 +5872,7 @@
   },
   {
     "id": "pg-368",
-    "path": "/area-we-serve/nsw/blocked-drains-hurstville-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-hurstville",
     "type": "location",
     "title": "Blocked Drains Hurstville",
     "seoTitle": "Blocked Drains Hurstville | Kogarah, Oatley, Mortdale, Carlton",
@@ -5880,11 +5880,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:12:51.406Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:13:11.579Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:52:48.819Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
