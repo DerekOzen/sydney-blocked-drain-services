@@ -5392,7 +5392,7 @@
   },
   {
     "id": "pg-341",
-    "path": "/services/blocked-drains-sydney-copy",
+    "path": "/services/blocked-drains-sydney",
     "type": "service",
     "title": "Blocked Drains Sydney",
     "seoTitle": "Blocked Drains Sydney | Cleared From $69, $0 Call-Out",
@@ -5400,11 +5400,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T22:55:29.519Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T22:55:41.806Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:19:45.517Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
