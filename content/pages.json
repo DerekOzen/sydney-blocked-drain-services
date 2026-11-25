@@ -5528,7 +5528,7 @@
   },
   {
     "id": "pg-349",
-    "path": "/services/drain-cleaning-sydney-copy",
+    "path": "/services/drain-cleaning-sydney",
     "type": "service",
     "title": "Drain Cleaning Sydney",
     "seoTitle": "Drain Cleaning Sydney | Scheduled Drain Cleaning Service",
@@ -5536,11 +5536,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:05:17.729Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:05:37.465Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:28:25.178Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
