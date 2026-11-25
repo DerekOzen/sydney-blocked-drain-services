@@ -5770,7 +5770,7 @@
   },
   {
     "id": "pg-362",
-    "path": "/area-we-serve/nsw/blocked-drains-strathfield-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-strathfield",
     "type": "location",
     "title": "Blocked Drains Strathfield",
     "seoTitle": "Blocked Drains Strathfield | Strathfield, Homebush, Belfield",
@@ -5778,11 +5778,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:04:44.902Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:05:06.418Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:49:40.110Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
