@@ -5719,7 +5719,7 @@
   },
   {
     "id": "pg-359",
-    "path": "/area-we-serve/nsw/blocked-drains-sydney-cbd-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-sydney-cbd",
     "type": "location",
     "title": "Blocked Drains Sydney CBD",
     "seoTitle": "Blocked Drains Sydney CBD | City Drain Clearing 24 Hours",
@@ -5727,11 +5727,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:19:48.018Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:20:09.617Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:54:11.554Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
