@@ -5940,7 +5940,7 @@
   },
   {
     "id": "pg-372",
-    "path": "/area-we-serve/nsw/blocked-drains-parramatta-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-parramatta",
     "type": "location",
     "title": "Blocked Drains Parramatta",
     "seoTitle": "Blocked Drains Parramatta | Epping, Ermington, Carlingford",
@@ -5948,11 +5948,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:17:15.082Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:17:36.131Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:57:01.047Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
