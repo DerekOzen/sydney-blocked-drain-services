@@ -5753,7 +5753,7 @@
   },
   {
     "id": "pg-361",
-    "path": "/area-we-serve/nsw/blocked-drains-burwood-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-burwood",
     "type": "location",
     "title": "Blocked Drains Burwood",
     "seoTitle": "Blocked Drains Burwood | Burwood, Croydon and Enfield",
@@ -5761,11 +5761,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:03:40.820Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:04:01.805Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:48:54.166Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
