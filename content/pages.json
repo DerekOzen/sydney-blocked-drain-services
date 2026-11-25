@@ -6008,7 +6008,7 @@
   },
   {
     "id": "pg-376",
-    "path": "/area-we-serve/nsw/blocked-drains-the-hills-shire-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-the-hills-shire",
     "type": "location",
     "title": "Blocked Drains Hills District",
     "seoTitle": "Blocked Drains Hills District | Castle Hill, Kellyville, Rouse Hill",
@@ -6016,11 +6016,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:21:37.702Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:21:57.468Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:58:52.183Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
