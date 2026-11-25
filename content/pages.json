@@ -5630,7 +5630,7 @@
   },
   {
     "id": "pg-355",
-    "path": "/services/repairs-and-maintenance-copy",
+    "path": "/services/repairs-and-maintenance",
     "type": "service",
     "title": "Drain Repairs Sydney",
     "seoTitle": "Drain Repairs Sydney | Gullies, Traps, Pits and Junctions",
@@ -5638,11 +5638,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:13:42.009Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:14:03.142Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:30:52.043Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
