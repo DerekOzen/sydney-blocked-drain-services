@@ -5443,7 +5443,7 @@
   },
   {
     "id": "pg-344",
-    "path": "/services/blocked-toilet-repair-copy",
+    "path": "/services/blocked-toilet-repair",
     "type": "service",
     "title": "Blocked Toilet Plumber Sydney",
     "seoTitle": "Blocked Toilet Plumber Sydney | Toilets Unblocked 24 Hours",
@@ -5451,11 +5451,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T22:59:30.456Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:08:39.641Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:23:17.991Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
