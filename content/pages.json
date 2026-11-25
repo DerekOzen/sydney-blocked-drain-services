@@ -5957,7 +5957,7 @@
   },
   {
     "id": "pg-373",
-    "path": "/area-we-serve/nsw/blocked-drains-auburn-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-auburn",
     "type": "location",
     "title": "Blocked Drains Auburn",
     "seoTitle": "Blocked Drains Auburn | Lidcombe, Granville, Merrylands",
@@ -5965,11 +5965,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:18:20.585Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:18:42.174Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:57:26.619Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
