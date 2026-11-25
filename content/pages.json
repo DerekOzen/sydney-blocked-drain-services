@@ -5494,7 +5494,7 @@
   },
   {
     "id": "pg-347",
-    "path": "/services/cctv-drain-inspection-copy",
+    "path": "/services/cctv-drain-inspection",
     "type": "service",
     "title": "CCTV Drain Inspection Sydney",
     "seoTitle": "CCTV Drain Inspection Sydney | Drain Camera, Footage Supplied",
@@ -5502,11 +5502,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:02:58.766Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:03:20.111Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:26:39.158Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
