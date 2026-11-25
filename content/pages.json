@@ -5855,7 +5855,7 @@
   },
   {
     "id": "pg-367",
-    "path": "/area-we-serve/nsw/blocked-drains-bayside-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-bayside",
     "type": "location",
     "title": "Blocked Drains Bayside and Botany",
     "seoTitle": "Blocked Drains Bayside | Botany, Mascot, Rockdale, Arncliffe",
@@ -5863,11 +5863,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:10:18.373Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:10:39.738Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:51:48.044Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
