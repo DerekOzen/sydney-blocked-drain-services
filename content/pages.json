@@ -3866,11 +3866,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:29:10.170Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-247",
@@ -4378,11 +4379,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-279",
@@ -4394,11 +4396,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-280",
@@ -4410,11 +4413,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-281",
@@ -4522,11 +4526,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-288",
@@ -4538,11 +4543,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-289",
@@ -4602,11 +4608,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-293",
@@ -4618,11 +4625,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-294",
@@ -4650,11 +4658,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:35:09.460Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-296",
@@ -5002,11 +5011,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:41:32.285Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-318",
@@ -5034,11 +5044,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-320",
@@ -5066,11 +5077,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-322",
@@ -5082,11 +5094,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-323",
@@ -5130,11 +5143,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-16T05:45:53.402Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-16T05:47:21.704Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-25T03:10:34.934Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-326",
