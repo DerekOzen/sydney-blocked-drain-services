@@ -6583,7 +6583,7 @@
   },
   {
     "id": "pg-408",
-    "path": "/how-can-you-tell-if-the-drainage-for-a-toilet-is-blocked-copy",
+    "path": "/how-can-you-tell-if-the-drainage-for-a-toilet-is-blocked",
     "type": "post",
     "title": "Is It the Toilet or the Sewer? How to Tell Where the Blockage Is",
     "seoTitle": "Toilet Blocked or Sewer Blocked? How to Tell the Difference",
@@ -6591,11 +6591,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T02:03:22.703Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:03:44.205Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:53:15.408Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
