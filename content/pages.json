@@ -5511,7 +5511,7 @@
   },
   {
     "id": "pg-348",
-    "path": "/services/commercial-drain-cleaning-service-copy",
+    "path": "/services/commercial-drain-cleaning-service",
     "type": "service",
     "title": "Commercial Drain Cleaning Sydney",
     "seoTitle": "Commercial Drain Cleaning Sydney | Strata and Business Drains",
@@ -5519,11 +5519,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:04:06.826Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:08:56.898Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:27:07.578Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
