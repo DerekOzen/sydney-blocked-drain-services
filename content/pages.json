@@ -5545,7 +5545,7 @@
   },
   {
     "id": "pg-350",
-    "path": "/services/electric-eel-drain-cleaning-copy",
+    "path": "/services/electric-eel-drain-cleaning",
     "type": "service",
     "title": "Electric Eel Drain Cleaning Sydney",
     "seoTitle": "Electric Eel Drain Cleaning Sydney | Roots Cut Out Fast",
@@ -5553,11 +5553,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:06:19.856Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:06:40.979Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:28:47.809Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
