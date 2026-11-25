@@ -5702,7 +5702,7 @@
   },
   {
     "id": "pg-358",
-    "path": "/area-we-serve/nsw/blocked-drains-inner-west-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-inner-west",
     "type": "location",
     "title": "Blocked Drains Inner West",
     "seoTitle": "Blocked Drains Inner West | Marrickville to Leichhardt",
@@ -5710,11 +5710,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:18:36.422Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:18:57.585Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:53:47.664Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
