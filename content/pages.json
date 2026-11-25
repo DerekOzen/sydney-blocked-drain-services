@@ -6532,7 +6532,7 @@
   },
   {
     "id": "pg-405",
-    "path": "/why-your-sink-gurgles-sydney-causes-fixes-copy",
+    "path": "/why-your-sink-gurgles-sydney-causes-fixes",
     "type": "post",
     "title": "Gurgling Drain? Why Your Sink Gurgles and How to Fix It",
     "seoTitle": "Gurgling Drain | Why Your Sink Gurgles and How to Fix It",
@@ -6540,11 +6540,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T01:23:54.795Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T01:24:16.167Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:42:35.933Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
