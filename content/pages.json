@@ -6093,7 +6093,7 @@
   },
   {
     "id": "pg-381",
-    "path": "/area-we-serve-copy",
+    "path": "/area-we-serve",
     "type": "location",
     "title": "Areas We Serve",
     "seoTitle": "Blocked Drain Plumber Near Me | 19 Sydney Areas Covered",
@@ -6101,11 +6101,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:27:23.037Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:27:46.047Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T04:02:00.766Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
