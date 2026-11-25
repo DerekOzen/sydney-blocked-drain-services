@@ -5613,7 +5613,7 @@
   },
   {
     "id": "pg-354",
-    "path": "/services/pipe-replacement-copy",
+    "path": "/services/pipe-replacement",
     "type": "service",
     "title": "Pipe Replacement Sydney",
     "seoTitle": "Pipe Replacement Sydney | Sewer and Drain Pipe Replaced",
@@ -5621,11 +5621,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:12:41.004Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:13:00.601Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:30:21.468Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
