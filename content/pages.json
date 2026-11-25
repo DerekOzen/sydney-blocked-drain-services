@@ -5991,7 +5991,7 @@
   },
   {
     "id": "pg-375",
-    "path": "/area-we-serve/nsw/blocked-drains-fairfield-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-fairfield",
     "type": "location",
     "title": "Blocked Drains Fairfield",
     "seoTitle": "Blocked Drains Fairfield | Cabramatta, Bonnyrigg, Wetherill Park",
@@ -5999,11 +5999,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:20:32.783Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:20:54.750Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:58:14.981Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
