@@ -5787,7 +5787,7 @@
   },
   {
     "id": "pg-363",
-    "path": "/area-we-serve/nsw/blocked-drains-canterbury-bankstown-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-canterbury-bankstown",
     "type": "location",
     "title": "Blocked Drains Canterbury-Bankstown",
     "seoTitle": "Blocked Drains Canterbury-Bankstown | Campsie to Revesby",
@@ -5795,11 +5795,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:05:56.338Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:06:17.392Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:50:06.985Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
