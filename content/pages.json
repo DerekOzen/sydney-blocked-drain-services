@@ -5426,7 +5426,7 @@
   },
   {
     "id": "pg-343",
-    "path": "/services/blocked-stormwater-drain-sydney-copy",
+    "path": "/services/blocked-stormwater-drain-sydney",
     "type": "service",
     "title": "Blocked Stormwater Drains Sydney",
     "seoTitle": "Blocked Stormwater Drain Sydney | Pits and Downpipes Cleared",
@@ -5434,11 +5434,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T22:58:25.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T03:17:40.863Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:22:39.800Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
