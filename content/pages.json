@@ -5804,7 +5804,7 @@
   },
   {
     "id": "pg-364",
-    "path": "/area-we-serve/nsw/blocked-drains-randwick-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-randwick",
     "type": "location",
     "title": "Blocked Drains Randwick",
     "seoTitle": "Blocked Drains Randwick | Coogee, Kensington, Maroubra",
@@ -5812,11 +5812,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:07:00.842Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:07:20.948Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:50:33.629Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
