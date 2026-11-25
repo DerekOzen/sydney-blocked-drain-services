@@ -6243,7 +6243,7 @@
   },
   {
     "id": "pg-388",
-    "path": "/what-things-could-cause-clogged-drains-in-your-household-copy",
+    "path": "/what-things-could-cause-clogged-drains-in-your-household",
     "type": "post",
     "title": "What Causes Blocked Drains? The Household Causes, and the Ones Never to Ignore",
     "seoTitle": "What Causes Blocked Drains? Common Household Causes",
@@ -6251,11 +6251,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:35:26.909Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:35:48.308Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:19:22.479Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
