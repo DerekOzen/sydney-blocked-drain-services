@@ -5821,7 +5821,7 @@
   },
   {
     "id": "pg-365",
-    "path": "/area-we-serve/nsw/blocked-drains-waverley-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-waverley",
     "type": "location",
     "title": "Blocked Drains Waverley and Bondi",
     "seoTitle": "Blocked Drains Bondi and Waverley | Bondi Junction, Bronte",
@@ -5829,11 +5829,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:08:03.176Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:08:24.280Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:51:00.912Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
