@@ -6149,11 +6149,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:28:51.418Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:29:12.155Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T04:53:25.540Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
