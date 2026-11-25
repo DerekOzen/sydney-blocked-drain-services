@@ -5974,7 +5974,7 @@
   },
   {
     "id": "pg-374",
-    "path": "/area-we-serve/nsw/blocked-drains-blacktown-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-blacktown",
     "type": "location",
     "title": "Blocked Drains Blacktown",
     "seoTitle": "Blocked Drains Blacktown | Seven Hills, Quakers Hill, The Ponds",
@@ -5982,11 +5982,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:19:28.255Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:19:49.219Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:57:51.466Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
