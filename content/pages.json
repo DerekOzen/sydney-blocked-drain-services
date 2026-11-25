@@ -5409,7 +5409,7 @@
   },
   {
     "id": "pg-342",
-    "path": "/services/blocked-sewer-sydney-copy",
+    "path": "/services/blocked-sewer-sydney",
     "type": "service",
     "title": "Blocked Sewer Sydney",
     "seoTitle": "Blocked Sewer Sydney | 24 Hour Sewer Line Clearing",
@@ -5417,11 +5417,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T22:56:57.211Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T22:57:21.389Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:20:15.301Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
