@@ -6044,7 +6044,7 @@
   },
   {
     "id": "pg-378",
-    "path": "/about-us-copy",
+    "path": "/about-us",
     "type": "page",
     "title": "About Sydney Blocked Drain Service",
     "seoTitle": "About Us | Sydney Blocked Drain Specialists, Licence 306733C",
@@ -6052,11 +6052,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:24:06.998Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:09:34.585Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T04:40:58.039Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
