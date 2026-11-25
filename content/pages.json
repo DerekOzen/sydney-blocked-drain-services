@@ -6608,11 +6608,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T02:04:32.112Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:04:52.652Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:55:15.366Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
