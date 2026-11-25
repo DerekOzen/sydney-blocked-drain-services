@@ -6642,11 +6642,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T02:06:29.367Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T03:08:15.574Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T06:01:52.993Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
