@@ -5923,7 +5923,7 @@
   },
   {
     "id": "pg-371",
-    "path": "/area-we-serve/nsw/blocked-drains-ryde-copy",
+    "path": "/area-we-serve/nsw/blocked-drains-ryde",
     "type": "location",
     "title": "Blocked Drains Ryde",
     "seoTitle": "Blocked Drains Ryde | Macquarie Park, Meadowbank, Putney",
@@ -5931,11 +5931,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:16:08.767Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:16:30.752Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:55:07.295Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
