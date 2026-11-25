@@ -6625,11 +6625,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T02:05:29.885Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T02:05:51.324Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:56:23.232Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
