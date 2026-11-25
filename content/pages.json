@@ -6055,7 +6055,7 @@
   },
   {
     "id": "pg-380",
-    "path": "/services-copy",
+    "path": "/services",
     "type": "service",
     "title": "Drain Services Sydney",
     "seoTitle": "Drain Services Sydney | Clearing, CCTV, Relining, Repairs",
@@ -6063,11 +6063,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T00:26:01.549Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T00:26:22.091Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:38:42.537Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
