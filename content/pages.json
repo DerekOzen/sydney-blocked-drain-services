@@ -6328,7 +6328,7 @@
   },
   {
     "id": "pg-393",
-    "path": "/what-happens-if-you-reline-a-sewer-pipe-the-wrong-way-copy",
+    "path": "/what-happens-if-you-reline-a-sewer-pipe-the-wrong-way",
     "type": "post",
     "title": "Pipe Relining Problems: What Goes Wrong When a Sewer Is Relined Badly",
     "seoTitle": "Pipe Relining Problems | What Goes Wrong and How to Avoid It",
@@ -6336,11 +6336,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T01:04:52.526Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T01:05:12.285Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T05:21:55.537Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
