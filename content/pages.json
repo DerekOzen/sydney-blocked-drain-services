@@ -5562,7 +5562,7 @@
   },
   {
     "id": "pg-351",
-    "path": "/services/emergency-blocked-drains-sydney-copy",
+    "path": "/services/emergency-blocked-drains-sydney",
     "type": "service",
     "title": "Emergency Blocked Drains Sydney",
     "seoTitle": "Emergency Blocked Drains Sydney | 24 Hour Drain Plumber",
@@ -5570,11 +5570,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T23:07:26.168Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-23T23:07:47.021Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-25T03:29:25.960Z",
+    "updatedBy": "joshua",
     "isHome": false
   },
   {
